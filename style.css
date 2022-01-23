@@ -1,0 +1,57 @@
+:root {
+  --black: #08080b;
+  --grey: #2e3138;
+  --accent: #f8e850;
+  --white: #fefefe;
+}
+
+
+
+html {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Bai Jamjuree',
+    sans-serif;
+  font-family: 'Be Vietnam Pro',
+    sans-serif;
+  font-family: 'Comfortaa',
+    cursive;
+  font-family: 'Inter',
+    sans-serif;
+  font-family: 'Kumbh Sans',
+    sans-serif;
+  font-family: 'Prata',
+    serif;
+  font-family: 'Roboto',
+    sans-serif;
+  font-family: 'Space Mono',
+    monospace;
+}
+
+p {
+  font-family: 'Bai Jamjuree',
+    sans-serif;
+  font-family: 'Be Vietnam Pro',
+    sans-serif;
+  font-family: 'Comfortaa',
+    cursive;
+  font-family: 'Inter',
+    sans-serif;
+  font-family: 'Kumbh Sans',
+    sans-serif;
+  font-family: 'Prata',
+    serif;
+  font-family: 'Roboto',
+    sans-serif;
+  font-family: 'Space Mono',
+    monospace;
+}
