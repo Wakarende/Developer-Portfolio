@@ -99,6 +99,13 @@ ul {
   padding-bottom: 125px;
 }
 
+.header-content {
+  display: inline-block;
+  width: 720px;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
 /* END Header  */
 
 /* Companies  */
@@ -169,6 +176,11 @@ ul {
   background-color: var(--black);
   padding-top: 62.5px;
   padding-bottom: 62.5px;
+}
+
+.contact-content {
+  display: inline-block;
+  width: 620px;
 }
 
 /* END Contact  */
