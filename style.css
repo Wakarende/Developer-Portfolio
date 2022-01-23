@@ -93,7 +93,7 @@ p {
 /* Articles  */
 .articles {
   background-color: var(--black);
-  padding-bottom: 125px;
+  padding-bottom: 62.5px;
 }
 
 .cards {
@@ -108,3 +108,17 @@ p {
 }
 
 /* END Articles  */
+/* Information  */
+.information {
+  background-color: var(--grey);
+  padding-top: 62.5px;
+  padding-bottom: 62.5px;
+}
+
+.info-flex {
+  display: flex;
+  column-gap: 50px;
+  justify-content: space-evenly;
+}
+
+/* END Information  */
