@@ -79,7 +79,7 @@ p {
 /* Companies  */
 .companies {
   background-color: var(--black);
-  padding-bottom: 50px;
+  padding-bottom: 125px;
 }
 
 .companies-list {
@@ -90,3 +90,21 @@ p {
 }
 
 /* END Companies  */
+/* Articles  */
+.articles {
+  background-color: var(--black);
+  padding-bottom: 125px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  column-gap: 50px;
+}
+
+.card {
+  width: 45rem;
+  background-color: var(--black);
+}
+
+/* END Articles  */
