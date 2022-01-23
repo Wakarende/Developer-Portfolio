@@ -71,7 +71,22 @@ p {
 /* END NAV  */
 .header {
   background-color: var(--black);
+  padding-bottom: 125px;
 }
 
-
 /* END Header  */
+
+/* Companies  */
+.companies {
+  background-color: var(--black);
+  padding-bottom: 50px;
+}
+
+.companies-list {
+  list-style: none;
+  display: flex;
+  column-gap: 60px;
+  justify-content: space-evenly;
+}
+
+/* END Companies  */
