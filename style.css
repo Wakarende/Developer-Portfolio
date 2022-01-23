@@ -55,3 +55,17 @@ p {
   font-family: 'Space Mono',
     monospace;
 }
+
+/* Header  */
+/* NAV  */
+.nav-btn {
+  background-color: var(--accent);
+  padding: 10px;
+  color: var(--black);
+  border: solid 1px var(--accent);
+}
+
+.header {
+  background-color: var(--black);
+  color: var(--white);
+}
