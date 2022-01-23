@@ -132,6 +132,23 @@ ul {
   background-color: var(--black);
 }
 
+.bi-arrow-right {
+  font-size: 24px;
+  color: var(--white);
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.title:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 2px;
+}
+
 /* END Articles  */
 /* Information  */
 .information {
